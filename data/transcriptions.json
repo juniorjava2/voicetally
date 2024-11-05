@@ -1,0 +1,16 @@
+[
+    {
+      "id": "1",
+      "fileName": "audio1.mp3",
+      "language": "Kiswahili",
+      "transcript": "Mr. LG\nEe, kajana ombaniru dia\nkazirejesha salamu,\nzamani kakumbukia.\nAmeumizita\nkaacha koka, karambaga raza, kaishiwa maskini.\nMpeni taarifa za beti mkwasa\nmisimkumbuki si, eh, mwambieni, mwambieni mali yake shaliwa. Aha, apunguze kampeni, jimbo lishachukuliwa...",
+      "date": "2024-03-15T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "fileName": "video1.mp4",
+      "language": "English",
+      "transcript": "This is a sample transcript for a video file...",
+      "date": "2024-03-16T14:30:00Z"
+    }
+  ]
